@@ -31,6 +31,12 @@ cd enlac
 cd testdata/
 ```
 
+- Create the folder that will be used as a mount point to host the graph database data
+
+```
+mkdir graph-database
+```
+
 - And **run the command**:
 
 ```
